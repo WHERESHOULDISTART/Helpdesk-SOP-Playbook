@@ -5,9 +5,37 @@
 This repository serves as a practical portfolio demonstrating Tier 1 and Tier 2 IT Helpdesk incident management. It contains resolved incident tickets and Standard Operating Procedures (SOPs) executed within a simulated enterprise environment, closely adhering to the **CompTIA A+ 6-Step Troubleshooting Methodology**. 
 
 ## Skills Demonstrated
-* **CompTIA Core 1 (220-1201):** Network troubleshooting, hardware diagnostics, and enterprise hardware provisioning.
-* **CompTIA Core 2 (220-1202):** Active Directory (AD) management, identity management, remote support, VPN split-tunneling, and professional customer service communication.
-* **Frameworks:** ITIL Incident Management best practices.
+### CompTIA A+ V15 Study Alignment
+
+- Core 1 (220-1201): Hardware, networking,
+  virtualization, connectivity troubleshooting.
+- Core 2 (220-1202): Operating systems,
+  security, software troubleshooting,
+  operational procedures.
+
+### IT Support Skills
+
+- Incident intake, prioritization and documentation.
+- VPN and shared network drive troubleshooting.
+- Simulated directory and identity management.
+- Password reset and account administration.
+- Hardware replacement and asset management.
+- Remote support and customer communication.
+
+### Tools and Platforms
+
+- ServiceDesk Simulator
+- GitHub
+- Windows and networking concepts
+
+### Troubleshooting Approach
+
+Used a structured troubleshooting process:
+problem identification, probable cause, testing,
+resolution, verification and documentation.
+
+All incidents are simulated training exercises.
+No production systems were administered.
 
 ## Incident Ticket Directory
 Click on any of the tickets below to view the full troubleshooting documentation and simulated environment screenshots:
